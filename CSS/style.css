@@ -1,17 +1,17 @@
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/Cars.jpg);
+  background-image: url(../img/car classic.jpg);
 }
 
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/SUVs.jpg);
+  background-image: url(../img/cars2.jpg);
 }
 
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/SUVs.jpg);
+  background-image: url(../img/SUVs.jpg);
 }
